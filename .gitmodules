@@ -1,0 +1,3 @@
+[submodule "include/cherry-graphics"]
+	path = include/cherry-graphics
+	url = https://github.com/jaqee-a/cherry-graphics.git
